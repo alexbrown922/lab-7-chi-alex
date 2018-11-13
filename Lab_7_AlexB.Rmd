@@ -1,0 +1,14 @@
+---
+title: "Gun Control Chi-Square"
+author: "Alex Brown"
+date: "11/13/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This: I'm Alex and I'm updating this markdown file here.
+
+
