@@ -11,4 +11,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This: I'm Alex and I'm updating this markdown file here.
 
+```{r}
+library(tidyverse)
 
+gc_df <- read_csv("gc_df (1).csv")
+```
+
+We are asking is there a signifciant difference in recommended gun control action for male and female respondents (should guns be easier, harder, or same difficulty to get)?
